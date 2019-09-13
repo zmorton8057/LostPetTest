@@ -1,0 +1,71 @@
+body {
+    background: #D4DEEA
+}
+
+.navbar-brand {
+    font-size: 25px
+}
+
+/* footer {
+    background: #D4DEEA
+} */
+
+/* styles navbar */
+#nav-css {
+    background: rgb(107, 153, 209);
+}
+
+a {
+    color: white
+}
+
+.carousel-img {
+    height: 200px; 
+    width: 300px;
+}
+
+#carousel-container {
+    width: 100%; 
+    
+}
+
+.row-full{
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 100px;
+    margin-top: 100px;
+    left: 50%;
+   }
+
+
+
+#frame {
+    background: rgb(107, 153, 209)
+}
+
+#navDrop {
+    background: white
+}
+.navbar-toggler-icon {
+    color: grey
+}
+
+#arrow-right {
+    height: 50px; width: 50px; color: rgb(107, 153, 209); font-size: 70px; 
+    font-weight: bold; 
+    position: relative; 
+    top: 20%
+}
+
+#app-name {
+    /* font-family: 'Gayathri', sans-serif; */
+    position: relative;
+    left: 32%; 
+    color: #D4DEEA; 
+    font-size: 40px
+}
+
+.maxWidth {
+    max-width: 10rem;
+}; 
